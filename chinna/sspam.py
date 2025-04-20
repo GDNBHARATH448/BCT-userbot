@@ -3,7 +3,7 @@ from re import sub
 from threading import Event
 from pyrogram import Client, enums, filters
 from pyrogram.types import Message
-from chinna.modules.chinna.data import GROUP
+from chinnaop.modules.chinnaop.data import GROUP
 from ... import app, SUDO_USER
 from ... import *
 from SHUKLA.console import*
