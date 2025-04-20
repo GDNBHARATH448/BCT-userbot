@@ -7,7 +7,7 @@ from random import choice
 OWNER_ID = 6762113050
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from BCTchinna.modules.BCTchinna.data import *
+from Bctchinna.modules.Bctchinna.data import *
 from ... import app, SUDO_USER
 from ... import *
 
