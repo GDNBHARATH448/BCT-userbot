@@ -1,3 +1,5 @@
+aiohttp
+aiofiles
 bs4
 cinemagoer
 edge-tts
