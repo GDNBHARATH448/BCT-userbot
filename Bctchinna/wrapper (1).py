@@ -67,8 +67,8 @@ def inline_wrapper(func):
                 button = [
                     [
                         InlineKeyboardButton(
-                            "💥 Deploy Shukla Userbot ✨",
-                            url=f"https://github.com/itzshukla/STRANGER-OPUSERBOT2.0"
+                            "💥 Deploy BCTchinna Userbot ✨",
+                            url=f"https://github.com/GDNBHARATH448/BCT-userbot"
                         )
                     ]
                 ]
@@ -79,10 +79,10 @@ def inline_wrapper(func):
                         (
                             InlineQueryResultPhoto(
                                 photo_url=f"https://files.catbox.moe/r58nec.jpg",
-                                title="🥀 Shukla Userbot ✨",
+                                title="🥀 Bctchinna Userbot ✨",
                                 thumb_url=f"https://files.catbox.moe/r58nec.jpg",
-                                description=f"🌷 Deploy Your Own SHUKLAUSERBOT🌿...",
-                                caption=f"<b>🥀 Welcome » To » Shukla 🌷\n✅ Userbot {__version__} ✨...</b>",
+                                description=f"🌷 Deploy Your Own BctchinnaUSERBOT🌿...",
+                                caption=f"<b>🥀 Welcome » To » Bctchinna 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
