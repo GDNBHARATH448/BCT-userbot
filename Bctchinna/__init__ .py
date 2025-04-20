@@ -1,4 +1,4 @@
-from SHUKLA.console import  SUDO_USERS, OWNER_ID, OWNER_USERNAME
+from Bctchinna.console import  SUDO_USERS, OWNER_ID, OWNER_USERNAME
 from aiohttp import ClientSession
 
 # Ai-Userbot Version
