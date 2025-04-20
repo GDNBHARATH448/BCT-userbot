@@ -3,10 +3,10 @@ from re import sub
 from threading import Event
 from pyrogram import Client, enums, filters
 from pyrogram.types import Message
-from BCTchinna.modules.BCTchinnaop.data import GROUP
+from Bctchinna.modules.Bctchinna.data import GROUP
 from ... import app, SUDO_USER
 from ... import *
-from SHUKLA.console import*
+from Bctchinna.console import*
 
 commands = ["spam", "statspam", "slowspam", "fastspam"]
 SPAM_COUNT = [0]
