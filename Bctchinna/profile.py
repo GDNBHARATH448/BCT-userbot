@@ -11,7 +11,7 @@ from pyrogram import Client, filters, enums
 from pyrogram.types import Message
 
 from ... import *
-from SHUKLA.modules.SHASHANK.PyroHelpers import ReplyCheck
+from Bctchinna.modules.Bctchinna.PyroHelpers import ReplyCheck
 
 
 flood = {}
