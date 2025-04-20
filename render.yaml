@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: Zaid
+    name: Bctchinna
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 server.py & python3 -m Zaid
-    repo: https://github.com/ITZ-ZAID/ZAID-USERBOT      
+    startCommand: python3 server.py & python3 -m Bctchinna 
+    repo:  https://github.com/GDNBHARATH448/BCT-userbot
     branch: master
     envVars:
       - key: SUDO_USERS 
