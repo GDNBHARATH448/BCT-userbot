@@ -18,7 +18,7 @@ async def help_menu_logo(answer):
             photo_url=f"{thumb_image}",
             title="💫 ʜᴇʟᴘ ᴍᴇɴᴜ  ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of SHUKLAUSERBOT ✨...",
+            description=f"🥀 Open Help Menu Of BctchinnaUSERBOT ✨...",
             caption=f"""
             **💫 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ ᴏᴘ.
 sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
@@ -26,7 +26,7 @@ sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
 ❤️ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs ❤️
  
-🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [  ᴜᴘᴅᴀᴛᴇ ](https://t.me/SHIVANSH474) 🌹**""",
+🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [  ᴜᴘᴅᴀᴛᴇ ](https://t.me/aboutchinnalu) 🌹**""",
             reply_markup=InlineKeyboardMarkup(button),
         )
     )
@@ -46,7 +46,7 @@ sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
 ❤️ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs ❤️
  
-🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [ ᴜᴘᴅᴀᴛᴇ ](https://t.me/SHIVANSH474) 🌹**""",
+🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [ ᴜᴘᴅᴀᴛᴇ ](https://t.me/aboutchinnalu) 🌹**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
